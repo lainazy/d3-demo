@@ -12,15 +12,14 @@ const App: React.FC = () => {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="#/charts"
           rel="noopener noreferrer"
         >
-          Learn React
+          D3 demo
         </a>
       </header>
     </div>
   );
-}
+};
 
 export default App;
